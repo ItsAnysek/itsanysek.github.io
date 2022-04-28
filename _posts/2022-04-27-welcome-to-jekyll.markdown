@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Welcome to Jekyll!"
 date:   2022-04-27 15:32:14 -0300
 categories: jekyll
@@ -25,4 +25,4 @@ Download this [test file][download-file].
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
-[download-file]: https://pages.gitlab.io/assets/dl/test_archive.zip
+[download-file]: https://itsanysek.github.io/assets/dl/test_archive.zip

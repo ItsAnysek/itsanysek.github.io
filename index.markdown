@@ -9,5 +9,5 @@ nothing to see here
 
 [Also here][about-page]
 
-[about-page]: https://pages.gitlab.io/ia_projects_site/about/
-[post-page]: https://pages.gitlab.io/ia_projects_site/jekyll/2022/04/27/welcome-to-jekyll.html
+[about-page]: https://itsanysek.github.io/about/
+[post-page]: https://itsanysek.github.io/jekyll/2022/04/27/welcome-to-jekyll.html
