@@ -23,10 +23,12 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <h1> {{ site.title }} </h1>
-        <h2> {{ site.author }} </h2>
-        <h2> {{ site.date }} </h3>
-        <h4> {{ site.categories}}  </h4>
+        <h1> {{ page.title }} </h1>
+        <h2> By: {{ page.author }} </h2>
+        <h3>
+            Date: {{ page.date }} 
+            Categories: {{ page.categories }}
+        </h3>
         {{ content }}
       </section>
     </div>
