@@ -9,11 +9,12 @@ nothing to see here
 
 [Also here][about-page]
 
+[And here][test-page]
+
 <br>
 
-Here are all the posts:
 
-{{ site.posts }}
 
 [about-page]: https://itsanysek.github.io/about/
 [post-page]: https://itsanysek.github.io/jekyll/2022/04/27/welcome-to-jekyll.html
+[test-page]: https://itsanysek.github.io/maintenance/2022/04/28/test-post.html
