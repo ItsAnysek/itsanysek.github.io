@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 author: ItsAnysek
-date:   2022-04-27 15:32:17 -0300
+date:   2022-04-27 15:32:17 +0200
 categories: jekyll
 published: true
 ---
