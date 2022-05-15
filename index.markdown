@@ -14,6 +14,3 @@ Nothing to see here...
 <h1>
 <a href="https://itsanysek.github.io/posts/">Posts</a>
 </h1>
-
-<br>
-<img src="./assets/images/britain_map.jpg">
